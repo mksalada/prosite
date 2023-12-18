@@ -35,4 +35,3 @@ node_modules
 content/docs/
 content/guides/
 content/samples/
-.github/workflows/gh-pages.yml
