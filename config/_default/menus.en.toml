@@ -47,9 +47,14 @@
   pageRef = "test"
   weight = 20
 
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  pre = "github"
+  pageRef = "https://github.com/mksalada"
   weight = 30
 
 
