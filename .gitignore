@@ -29,3 +29,9 @@ node_modules
 ._*
 .Spotlight-V100
 .Trashes
+
+# Custom
+content/test/
+content/docs/
+content/guides/
+content/samples/
