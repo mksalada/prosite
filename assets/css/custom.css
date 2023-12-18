@@ -1,0 +1,26 @@
+/*  Custom CSS: Customized for Rose Theme   */
+
+:root {
+    --neutral-color:    #a73937;
+    --primary-color:    #d4625e;
+    --secondary-color:  #40101a;
+}
+
+::selection {
+    color:      var(--primary-color);
+    background: var(--secondary-color);
+}
+
+input,
+textarea {
+    box-sizing: border-box !important;
+    outline:    none !important;
+    border:     1px solid var(--primary-color) !important;
+    color:      var(--primary-color) !important;
+}
+
+input:focus,
+textarea:focus {
+    border:          1px solid var(--primary-color) !important;
+    --tw-ring-color: var(--primary-color) !important;
+}
