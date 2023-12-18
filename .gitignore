@@ -31,7 +31,8 @@ node_modules
 .Trashes
 
 # Custom
-content/test/
+# content/test/
 content/docs/
 content/guides/
 content/samples/
+.github/workflows/gh-pages.yml
