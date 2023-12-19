@@ -31,7 +31,4 @@ node_modules
 .Trashes
 
 # Custom
-# content/test/
-content/docs/
-content/guides/
-content/samples/
+content/test/
