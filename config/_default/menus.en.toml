@@ -49,9 +49,8 @@
 
 [[main]]
   pre = "github"
-  pageRef = "https://github.com/mksalada"
+  url = "https://github.com/mksalada"
   weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
