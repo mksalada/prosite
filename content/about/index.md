@@ -16,3 +16,5 @@ Mabuhay! I'm Tina from Palawan, Philippines. I write code for the web and blogs 
 This website is powered by [Hugo](https://gohugo.io/) and deployed in [GitHub Pages](https://pages.github.com/). The theme is [Blowfish](https://blowfish.page) and I'm using my custom scheme called Rose. I write about making this website.
 
 {{< article link="/posts/the-making-of-this-website/" >}}
+
+{{< mdimporter url="https://raw.githubusercontent.com/mksalada/currently-learning/main/README.md" >}}
