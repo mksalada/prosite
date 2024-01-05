@@ -21,7 +21,7 @@ This is my new website. It's a [Hugo](https://gohugo.io/) website and I used a t
 
 I also added and changed some of its styling (CSS).
 
-```css
+```
 # assests/css/custom.css
 
 :root {
