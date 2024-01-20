@@ -2,7 +2,6 @@
 title = 'The Making of This Website'
 date = 2023-12-19T08:25:37+08:00
 draft = false
-image = 'images/tina-index.png'
 +++
 
 This is my new website. It's a [Hugo](https://gohugo.io/) website and I used a theme called *[Blowfish](https://blowfish.page/)* by [Nuno Coração](https://github.com/nunocoracao/). It's an awesome theme with a lot of stuff you can customize. I created a new color scheme for this website using Nuno's NodeJS application called *[Fugu](https://github.com/nunocoracao/fugu)* to generate the color scheme I called **Rose**.

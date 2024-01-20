@@ -62,6 +62,13 @@
     - When your site is ready to deploy, run the `hugo` command.
     - A *`public`* folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
 
+### Commands
+
+    - New Post: `hugo new content posts/new-post-title/index.md`
+    - New Page: `hugo new content new-page-title/_index.md`
+    - Start Hugo server: `hugo server --cleanDestinationDir -D`
+    - Update Blowfish theme through GitHub submodule: `git submodule update --remote --merge`
+
 ***
 
 ### Resources
