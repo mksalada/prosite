@@ -13,15 +13,17 @@ Mabuhay! I'm Tina from Palawan, Philippines. I write code for the web and blogs 
 
 ## About this website
 
-This website is powered by [Hugo](https://gohugo.io/) and deployed in [GitHub Pages](https://pages.github.com/). The theme is [Blowfish](https://blowfish.page) and I'm using my custom scheme called Rose. I write about making this website.
+This website is powered by [Hugo](https://gohugo.io/) and deployed in [GitHub Pages](https://pages.github.com/). The theme is [Blowfish](https://blowfish.page) and I'm using my generated custom scheme called *Rose*. I write about making this website, see below.
 
 {{< article link="/posts/the-making-of-this-website/" >}}
 
 <br>
 
-{{< mdimporter url="https://raw.githubusercontent.com/mksalada/currently-learning/main/README.md" >}}
+My blogs for over the years are all over the place. There's blogs on WordPress, Blogspot, Webnode and so on. And I'm so sick of advertisments, restrictions and branding of these free website makers so I've been thinking for years of how I'm gonna get them all together in one place, and I think before this year ends, hopefully, I can do that on this website. I keep trying and trying for year but none of it suit my standards until now. I like using static site generators now like [Hugo](https://gohugo.io/) and [Hexo](https://hexo.io/). And I think this theme really suits my liking.
 
-## Other profiles and blogs
+<br>
+
+### Other profiles and blogs
 
 **Profiles**
 
@@ -40,3 +42,7 @@ This website is powered by [Hugo](https://gohugo.io/) and deployed in [GitHub Pa
 - <u>[WordPress](https://tinsalada.wordpress.com/)</u> *-> Personal and spritual blog*
 - <u>[Hashnode Blog](https://mks.hashnode.dev/)</u> *-> Developer blog*
 - <u>[Google Site](https://sites.google.com/psu.palawan.edu.ph/mksalada/)</u> *-> Student blog*
+
+<br>
+
+{{< mdimporter url="https://raw.githubusercontent.com/mksalada/currently-learning/main/README.md" >}}
