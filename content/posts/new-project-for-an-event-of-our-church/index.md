@@ -2,6 +2,7 @@
 title = 'New Project for an Event of Our Church'
 date = 2024-01-20T18:57:34+08:00
 draft = false
+tags = ["web apps", "church events", "projects"]
 +++
 
 I was working on a project for our church for more that a week now. We're having a family camp for the holy week. One of my church mates on media asked me if I could make a system for the registration and attendance. I accepted it because I can do it and of course, I would love to do it. I'm so confident that I told him that it'll be ready within a week. I published the repository on GitHub publicly but after some days, I made it private so you guys can't access it. I called it "**Family Camp Management System (FCMS)**".
