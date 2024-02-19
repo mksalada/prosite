@@ -82,3 +82,14 @@
     - *Open/New Terminal* -> `Ctrl` + `Shift` + <code>`</code> or `Ctrl` + <code>`</code>
     - *Markdown Preview* -> `Ctrl` + `Shift` + `V`
     - *Markdown Preview to the left* -> `Ctrl` + `K` + `V`
+
+### TODOs
+
+    - [x] Webnode
+    - [x] DEV (dev.to)
+    - [ ] Hashnode
+    - [ ] WordPress
+    - [ ] Blogger (blogspot.com)
+    - [ ] Medium
+    - [ ] Replit (repl.it)
+    - [ ] Tumblr
