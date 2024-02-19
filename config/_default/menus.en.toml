@@ -68,12 +68,12 @@
   pageRef = "tags"
   weight = 10
 
-#[[footer]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[footer]]
+  name = "Credits"
+  pageRef = "credits"
+  weight = 20
 
 [[footer]]
   pre = "hashnode"
   url = "https://hashnode.com/@tinasalada"
-  weight = 20
+  weight = 30
