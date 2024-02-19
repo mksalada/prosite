@@ -7,7 +7,8 @@
 - Site name: `Tina Salada`
 - Owner: `mks`, `Tina Salada`, `mksalada`
 - Description: `My blog site`
-- Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Dillon](https://github.com/nunocoracao) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
+- Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Nuno Coração](https://github.com/nunocoracao)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 
 ## Build & deploy
 
@@ -84,7 +85,7 @@ Go to http://localhost:1313
 - *Markdown Preview to the left* -> `Ctrl` + `K` + `V`
 
 ### TODOs
-
+Import blogs at:
 - [x] Webnode
 - [x] DEV (dev.to)
 - [ ] Hashnode
