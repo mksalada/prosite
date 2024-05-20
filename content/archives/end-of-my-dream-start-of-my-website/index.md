@@ -6,6 +6,7 @@ description = ""
 slug = ""
 tags = ["websites", "stories", "webnode"]
 canonicalUrl = 'https://mksalada.webnode.page/l/end-of-my-dream-start-of-my-website/'
+showTableOfContents = true
 +++
 
 Usually, people publishes what their website is about for their first blog post. I've done that before of almost all of my websites pero iibahin ko naman dito ngayon. For my first post, I will tell y'all about my dream for these past years that now have came true. 

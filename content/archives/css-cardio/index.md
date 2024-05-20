@@ -6,6 +6,7 @@ description = ""
 slug = ""
 tags = ["courses", "css", "dev.to"]
 canonicalUrl = 'https://dev.to/mksalada/css-cardio-10of'
+showTableOfContents = true
 +++
 
 I took the CSS Grid course on the 19th day of March. I downloaded first all of the videos and study repeatedly offline. I tweeted updates regarding my progress on Twitter ([see here](https://twitter.com/tinsalada/status/1240565911481798658)). I didn't study everyday because I have some things to do and finally today, I finished the course. 
