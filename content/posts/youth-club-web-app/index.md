@@ -8,10 +8,7 @@ tags = ["projects", "multimedia", "web apps", "websites", "templates"]
 showTableOfContents = true
 +++
 
-It's been a while since my last drop. Sorry for having no updates for more than 2 months. I wanted to write but I have nothing to write about. Maybe I do have but it's not something I want to share.
-
----
-<br>
+<!-- It's been a while since my last drop. Sorry for having no updates for more than 2 months. I wanted to write but I have nothing to write about. Maybe I do have but it's not something I want to share. -->
 
 ![AdventuReady Youth Club - Homepage](homepage.png)
 
