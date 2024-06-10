@@ -7,9 +7,9 @@ slug = ""
 tags = ["thoughts"]
 +++
 
-{{</* lead */>}}
+{{< lead >}}
 ...a path must be walked by someone before it becomes a path, and that a waterway can be formed from that path
-{{</* /lead */>}}
+{{< /lead >}}
 
 <br>
 
