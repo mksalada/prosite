@@ -6,7 +6,7 @@
 
 - Site name: `Tina Salada`
 - Owner: `mks`, `Tina Salada`, `mksalada`
-- Description: `My blog site`
+- Description: `My awesome website`
 - Theme: [Blowfish](https://github.com/nunocoracao/blowfish) by [Nuno Coração](https://github.com/nunocoracao)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/nunocoracao/blowfish?style=flat-square)](https://github.com/nunocoracao/blowfish/releases)
 
@@ -43,7 +43,7 @@ Use your own domain
 
 Go to http://localhost:1313
 
-## Launch by using the following command:
+### Launch by using the following command:
 
 - `hugo serve` or `hugo server`
     + When you run `hugo serve`, when the contents of the files change, the page automatically refreshes with the changes.
@@ -58,12 +58,12 @@ Go to http://localhost:1313
 - `hugo serve --cleanDestinationDir`
     + Remove files from destination not found in static directories
 
-## Build the website
+### Build the website
 
 - When your site is ready to deploy, run the `hugo` command.
 - A *`public`* folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
 
-### Commands
+#### Commands
 
 - New Post: `hugo new content posts/new-post-title/index.md`
 - New Page: `hugo new content new-page-title/_index.md`
@@ -77,14 +77,14 @@ Go to http://localhost:1313
 - [Blowfish Documentation](https://blowfish.page/docs/)
 - [Hugo Documentation](https://gohugo.io/documentation/)
 
-### Keyboard Shortcuts
+## Keyboard Shortcuts
 
 - Visual Studio Code's [Keyboard Shortcuts Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - *Open/New Terminal* -> `Ctrl` + `Shift` + <code>`</code> or `Ctrl` + <code>`</code>
 - *Markdown Preview* -> `Ctrl` + `Shift` + `V`
 - *Markdown Preview to the left* -> `Ctrl` + `K` + `V`
 
-### TODOs
+## TODOs
 Import blogs at:
 - [x] Webnode
 - [x] DEV (dev.to)
