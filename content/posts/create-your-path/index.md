@@ -2,16 +2,20 @@
 title = "Create Your Path"
 date = 2024-06-10T23:22:04+08:00
 draft = false
-description = ""
+description = "Before it becomes a path, it MUST be walked first"
 slug = ""
-tags = ["thoughts"]
+tags = ["thoughts", "learnings", "stories"]
+showHero = true
+layoutBackgroundBlur = false
 +++
 
 {{< lead >}}
-...a path must be walked by someone before it becomes a path, and that a waterway can be formed from that path
+...a path must be walked by someone before it becomes a path, and that a waterway can be formed from that path.
 {{< /lead >}}
 
 <br>
+
+## First lesson and first test
 
 In the Korean TV series called "***Hwarang*: The Poet Warrior Youth**", I learned the phrase "**create your path**" from its male lead character named **Sun-woo**. I will not explain what's the whole story is about. You can look for it on the internet and/or watch it yourself. It's average but a good drama to watch. And then, just go back here again. But for the sake of context, I'll share some so you don't get confused. The story:
 
@@ -70,15 +74,30 @@ But for Ji-dwi, Master Hwa-gong should have passed Sun-woo too.
 
 ## Before it becomes a path, it MUST be walked first
 
-To have a pathway towards your dreams or goals, you must walk and create a path first.
+This series was released on December 2016. I watched it January 2017. Back then, their conversations on their first lesson and test as a Hwarang was both inspiring and mind-blowing. I said, "Water? King? How did they found connections with that two words?" I'm not familiar with Chinese characters having meaning behind them and anything about the history of Korea that time.
 
-I can't remember how many times and how much I cried because I know what I wanna do and I enjoy doing it but people doesn't see it nor appreciate it. There are times I'm so hopeless. There are moments I feel like what I'm doing is meaningless. That I'm going to this walk alone. I'm scared. I have anxiety. I don't have to talk to. I have no courage left. Yes, I went to those darkest moments in my life.
+But the most important thing for me is that I learned something new. Something that blows my mind. Something that opened my eyes. That's the beauty of learning.
+
+I learned that to have a pathway towards my dreams, I must walk and create a path for it myself first. Because no one will do that for me. No one will fulfill my goals but me. I'm young and can still do it.
 
 <br>
 
+## A pathway has formed
+
+I can't remember how many times and how much I cried before I got here to where I am now. I haven't gone that far but back then, it was tough. I know what I wanna do and I enjoy doing it but people doesn't see it nor appreciate it. There are times I'm so hopeless. I fee like I don't really have a purpose. There are moments I feel like what I'm doing is meaningless. That I'm going to walk on this alone. I'm scared. I have anxiety. I don't have someone to talk to. I only have myself. I have no courage left. Yes, I went to those darkest moments in my life.
+
+Looking back to those times, if I didn't continue despite the pain... if I didn't pursue what I wanted, I am not here where I am now. I didn't know I was creating a path that time. Now, I'm walking on my pathway.
+
+I know I still have more to learn and more to go through and  if I need to go through that to get to where I want to be or maybe where God wants me to be, then let's go!
+
+<br>
+<br>
+
+
 ___
 
-Citations:
+#### Citations:
 - <a href="https://en.wikipedia.org/wiki/Hwarang:_The_Poet_Warrior_Youth" target="_blank">Hwarang: The Poet Warrior Youth</a> - Wikipedia
 - <a href="http://www.dramabeans.com/2017/01/hwarang-episode-6/" target="_blank">Hwarang: Episode 6 Recap</a> - <a href="https://www.dramabeans.com/members/LollyPip" target="_blank">LollyPip</a>, DramaBeans
 - <a href="http://www.dramabeans.com/2017/01/hwarang-episode-7/" target="_blank">Hwarang: Episode 7 Recap</a> - <a href="https://www.dramabeans.com/members/LollyPip" target="_blank">LollyPip</a>, DramaBeans
+- Thumbnail/Background: "<a href="https://www.deviantart.com/topolskiiv/art/pathway-of-water-209459042" target="_blank">pathway of water</a>" - TopolskiiV, DeviantArt
