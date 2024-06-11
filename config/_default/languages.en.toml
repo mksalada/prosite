@@ -16,8 +16,8 @@ title = "Tina Salada"
 [author]
   name = "Tina Salada"
   image = "avatars/tina-salada.png"
-#   headline = "I'm only human"
-  bio = "aspiring Web developer, IT student, Baybayin advocate, Follower of Christ"
+  headline = "I'm *write* here"
+  bio = "blogger, Web developer, IT student, Baybayin advocate, follower of Christ"
   links = [
     { email = "mailto:mksalada@outlook.com" },
 #     { link = "https://link-to-some-website.com/" },
