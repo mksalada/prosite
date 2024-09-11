@@ -63,6 +63,12 @@ Go to http://localhost:1313
 - When your site is ready to deploy, run the `hugo` command.
 - A *`public`* folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
 
+### Update the submodule (theme)
+
+```cmd
+git submodule update --remote --merge
+```
+
 #### Commands
 
 - New Post: `hugo new content posts/new-post-title/index.md`
