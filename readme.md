@@ -69,6 +69,16 @@ Go to http://localhost:1313
 git submodule update --remote --merge
 ```
 
+### Print a module dependency graph (Hugo)
+
+- Run "`hugo mod graph`" for more information
+
+### Create new content inside a folder
+
+```bash
+hugo new content sample/external/index.md
+```
+
 #### Commands
 
 - New Post: `hugo new content posts/new-post-title/index.md`
@@ -90,7 +100,7 @@ git submodule update --remote --merge
 - *Markdown Preview* -> `Ctrl` + `Shift` + `V`
 - *Markdown Preview to the left* -> `Ctrl` + `K` + `V`
 
-## Structures
+## Folder structures
 
 ```
 .
@@ -102,6 +112,8 @@ git submodule update --remote --merge
             ├── index.md       # /projects/another-project
             └── project.jpg
 ```
+
+## Page structures
 
 ```md
 # /projects/_index.md
@@ -158,77 +170,82 @@ This page uses the `externalUrl` front matter parameter to link to an article ou
 It's great for things like linking to posts on Medium or to research papers you may have hosted on third party websites.
 ```
 
-```txt
-https://mks.hashnode.dev/doing-next
+# Hugo
 
-Things that I will be doing next
-Just discussing my next steps in blogging
+```cmd
+hugo is the main command, used to build your Hugo site.
 
-Mar 8, 2023
+Hugo is a Fast and Flexible Static Site Generator
+built with love by spf13 and friends in Go.
 
-Hello 👋 It's been a very long time since I first published a blog here and many things changed on Hashnode. In my very [first post](https://mks.hashnode.dev/readme), I said that...
+Complete documentation is available at https://gohugo.io/.   
 
-> I am only here to read articles of other developers and react & comment to their posts when I'd like to.
+Usage:
+  hugo [flags]
+  hugo [command]
 
-I am very consistent with that until now. I will be straight to the point and will not make this long.
+Available Commands:
+  completion  Generate the autocompletion script for the specified shell
+  config      Print the site configuration
+  convert     Convert your content to different formats      
+  deploy      Deploy your site to a Cloud provider.
+  env         Print Hugo version and environment info        
+  gen         A collection of several useful generators.     
+  help        Help about any command
+  import      Import your site from others.
+  list        Listing out various types of content
+  mod         Various Hugo Modules helpers.
+  new         Create new content for your site
+  server      A high performance webserver
+  version     Print Hugo version and environment info        
 
-I've decided that I will make this my Developer blog site. I will be posting here the story behind my projects as a developer. Not tutorials but stories about how I came up with a project, and so on.
+Flags:
+  -b, --baseURL string             hostname (and path) to the root, e.g. https://spf13.com/
+  -D, --buildDrafts                include content marked as 
+draft
+  -E, --buildExpired               include expired content   
+  -F, --buildFuture                include content with publishdate in the future
+      --cacheDir string            filesystem path to cache directory
+      --cleanDestinationDir        remove files from destination not found in static directories
+      --clock string               set the clock used by Hugo, e.g. --clock 2021-11-06T22:30:00.00+09:00
+      --config string              config file (default is hugo.yaml|json|toml)
+      --configDir string           config dir (default "config")
+  -c, --contentDir string          filesystem path to content directory
+      --debug                      debug output
+  -d, --destination string         filesystem path to write files to
+      --disableKinds strings       disable different kind of 
+pages (home, RSS etc.)
+      --enableGitInfo              add Git revision, date, author, and CODEOWNERS info to the pages
+  -e, --environment string         build environment
+      --forceSyncStatic            copy all files when static is changed.
+      --gc                         enable to run some cleanup tasks (remove unused cache files) after the build
+  -h, --help                       help for hugo
+      --ignoreCache                ignores the cache directory
+      --ignoreVendorPaths string   ignores any _vendor for module paths matching the given Glob pattern
+  -l, --layoutDir string           filesystem path to layout 
+directory
+      --logLevel string            log level (debug|info|warn|error)
+      --minify                     minify any supported output format (HTML, XML etc.)
+      --noBuildLock                don't create .hugo_build.lock file
+      --noChmod                    don't sync permission mode of files
+      --noTimes                    don't sync modification time of files
+      --panicOnWarning             panic on first WARNING log      --poll string                set this to a poll interval, e.g --poll 700ms, to use a poll based approach to watch for file system changes
+      --printI18nWarnings          print missing translations      --printMemoryUsage           print memory usage to screen at intervals
+      --printPathWarnings          print warnings on duplicate target paths etc.
+      --printUnusedTemplates       print warnings on unused templates.
+      --quiet                      build in quiet mode       
+      --renderSegments strings     named segments to render (configured in the segments config)
+  -M, --renderToMemory             render to memory (mostly useful when running the server)
+  -s, --source string              filesystem path to read files relative from
+      --templateMetrics            display metrics about template executions
+      --templateMetricsHints       calculate some improvement hints when combined with --templateMetrics
+  -t, --theme strings              themes to use (located in 
+/themes/THEMENAME/)
+      --themesDir string           filesystem path to themes 
+directory
+      --trace file                 write trace to file (not useful in general)
+  -v, --verbose                    verbose output
+  -w, --watch                      watch filesystem for changes and recreate as needed
 
-Hope that you guys can also appreciate that!
+Use "hugo [command] --help" for more information about a command.
 ```
-
-```txt
-https://mks.hashnode.dev/readme
-
-What am I doing here?
-
-Jan 27, 2021
-
-> What am I doing here at Hashnode? Why am I not publishing any blog?
-
-That's what always runs through my mind whenever I go here. It's been more than three months since I discovered Hashnode and almost everyone here is encouraging one another to start a blog.
-
-> Can't I just read articles and not write one?
-
-That's the reason I write this post, turn off the comments, hide from the community and clicked publish.
-
-I am only here to read articles of other developers and react & comment to their posts when I'd like to. In that way, I am also learning new stuff and connecting to the community. I believe that Hashnode is not only for developers who write articles but also for those who just read like me. But I want to clarify that I do not forbid myself if ever I want to do blogging here in the future and I do not hate anyone. I honestly love Hashnode's community.
-
-P.S. Right now, I only write personal blogs on my main [website](https://tinasalada.tk/). 😊
-```
-
-```txt
-Written by
-Tina Salada
-I believe that Hashnode is not only for developers who write articles but also for those who just read like me.
-
-------
-
-https://mks.hashnode.dev/archive
-
-Archive (3)
-
-Project Blog #1: Temperature Converter Web App
-Mar 9, 2023
-
-Things that I will be doing next
-Mar 8, 2023
-
-What am I doing here?
-Jan 27, 2021
-```
-
-```bash
-hugo new content projects/temperature-converter/index.md
-```
-
-## TODOs
-Import blogs at:
-- [x] Webnode
-- [x] DEV (dev.to)
-- [ ] Hashnode
-- [ ] WordPress
-- [ ] Blogger (blogspot.com)
-- [ ] Medium
-- [ ] Replit (repl.it)
-- [ ] Tumblr
