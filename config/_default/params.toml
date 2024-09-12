@@ -12,10 +12,13 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
+relpyByEmail = false
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
 disableImageOptimization = true
+disableTextInHeader = false
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
 defaultFeaturedImage = "images/default.png" # used as default for featured images in all articles
@@ -51,6 +54,7 @@ highlightCurrentMenuArea = true
   showLikes = false
   showDateUpdated = false
   showAuthor = false
+  # showAuthorBottom = false
   showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -72,6 +76,7 @@ highlightCurrentMenuArea = true
   showAuthorsBadges = false
   showWordCount = false
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = true
@@ -84,6 +89,7 @@ highlightCurrentMenuArea = true
   showLikes = false
   showTableOfContents = false
   showCards = false
+  orderByWeight = false
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false

@@ -3,10 +3,12 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://tina.codekit.org/"
+baseURL = "/" # https://tina.codekit.org # https://tinasalada.pages.dev
 defaultContentLanguage = "en"
 
-# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+# hugo function useful for non-english languages, find out more in 
+# https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+# pluralizeListTitles = "true"
 
 enableRobotsTXT = true
 paginate = 10
@@ -22,9 +24,9 @@ buildFuture = false
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
+  # category = "categories"
+  # author = "authors"
+  # series = "series"
   project = "projects"
 
 [sitemap]
@@ -43,21 +45,21 @@ buildFuture = false
         name = "tags"
         weight = 100
 
-    [[related.indices]]
-        name = "categories"
-        weight = 100
+    # [[related.indices]]
+    #     name = "categories"
+    #     weight = 100
 
-    [[related.indices]]
-        name = "series"
-        weight = 50
+    # [[related.indices]]
+    #     name = "series"
+    #     weight = 50
 
     [[related.indices]]
         name = "projects"
         weight = 30
 
-    [[related.indices]]
-        name = "authors"
-        weight = 20
+    # [[related.indices]]
+    #     name = "authors"
+    #     weight = 20
 
     [[related.indices]]
         name = "date"
