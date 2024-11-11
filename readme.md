@@ -24,7 +24,7 @@ Settings for Continuous Deployment from a Git repository
 - Build command: `hugo`
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.101.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
 - Hosted: [GitHub](https://github.com/)
-- Deployment: [GitHub Pages](https://pages.github.com/)
+- Deployment: [GitHub Pages](https://pages.github.com/) & [Cloudflare Pages](https://pages.cloudflare.com)
 - Publish directory: `public`
 - Builds: `Active`
 
@@ -35,9 +35,12 @@ Use your own domain
 ### Custom domains
 
 - Default subdomain: [mksalada.github.io](https://mksalada.github.io)
-- Primary domain: [tina.codekit.org](https://tina.codekit.org)
+- Primary domain: ~~[tina.codekit.org](https://tina.codekit.org)~~ [tinasalada.pages.dev](https://tinasalada.pages.dev)
 - Redirects automatically to primary domain: [mksalada.github.io](https://mksalada.github.io)
-- Domain alias: [tina.codekit.org](https://tina.codekit.org)
+- Domain alias: ~~[tina.codekit.org](https://tina.codekit.org)~~ [tinasalada.pages.dev](https://tinasalada.pages.dev)
+
+> **Goal:**
+> Subdomain: [mks.is-a.dev](https://mks.is-a.dev)
 
 ## Website launching offline
 
